@@ -36,6 +36,12 @@ I did not modify or view the code during this build — the focus was entirely o
 
 ---
 
+## Working Video Demo
+
+https://github.com/user-attachments/assets/7521bb19-e50f-4023-8e65-b97665b9877a
+
+
+
 ## 🚀 Future Goals
 
 - Understand and tweak the codebase
