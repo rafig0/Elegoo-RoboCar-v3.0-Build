@@ -27,11 +27,11 @@ I did not modify or view the code during this build — the focus was entirely o
 ## 📸 Real Setup Images
 
 ### Front View
-![Front View](images/front.jpg)
+![robocar front](https://github.com/user-attachments/assets/e4d37104-5568-44a2-9c40-c879f83187f7)
+
 
 ### Top View
-![Top View](images/top.jpg)
-
+![robocar back](https://github.com/user-attachments/assets/b5661331-f636-4da0-8e9f-985087f9d2b7)
 > *This is my actual prototype with real wiring, not a render.*
 
 ---
@@ -39,7 +39,6 @@ I did not modify or view the code during this build — the focus was entirely o
 ## 🚀 Future Goals
 
 - Understand and tweak the codebase
-- Add manual control via Bluetooth
 - Integrate voice commands or gesture control
 - Explore ESP32 port with camera module
 
